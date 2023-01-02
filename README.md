@@ -1,5 +1,5 @@
 # frida_deb
-高版本frida在低版本ios中会出现无法安装情，出现错误提示
+在cydia商店中使用frida更新源直接安装frida会出现无法安装的情况，错误提示如下
 ```
 dpkg-deb --control subprocess returned error exit status 2
 Sub-process /usr/libexec/cydia/cydo returned an error code (1)
